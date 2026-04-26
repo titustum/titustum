@@ -1,57 +1,37 @@
-<h1>👋 Hello, I'm <span style="color:#0ea5e9;">Titus Tum</span></h1>
+# 👋 Hello, I'm Titus Tum
 
-<p>
-🚀 <b>ICT Technical Trainer</b> | 💻 <b>Software Developer</b> | 🛠️ <b>TALL Stack Specialist</b>
-</p>
+🚀 ICT Technical Trainer | 💻 Software Developer | 🛠️ TALL Stack Specialist
 
-<p>
-I build <b>scalable, production-ready web applications</b> using the 
-<b>TALL stack</b> (Tailwind CSS, Alpine.js, Laravel, Livewire).  
-As a solo developer, I bootstrap and deliver <b>industry-level solutions</b> that solve real-world problems.
-</p>
+I build scalable, production-ready web applications using the **TALL stack** (Tailwind CSS, Alpine.js, Laravel, Livewire). As a solo developer, I bootstrap and deliver industry-level solutions that solve real-world problems.
 
-<p>
-🌍 My mission is to <b style="color:#16a34a;">use technology to uplift disadvantaged communities</b> by turning complex challenges into practical, accessible digital solutions.
-</p>
+🌍 My mission is to **use technology to uplift disadvantaged communities** by turning complex challenges into practical, accessible digital solutions.
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 
-<p>
-<b>Backend:</b> Laravel (PHP) <br/>
-<b>Frontend:</b> Tailwind CSS, Alpine.js <br/>
-<b>Fullstack:</b> Livewire <br/>
-<b>Architecture:</b> REST APIs, MVC, DDD <br/>
-<b>Workflow:</b> Git, CI/CD, Agile
-</p>
+* **Backend:** Laravel (PHP)
+* **Frontend:** Tailwind CSS, Alpine.js
+* **Fullstack:** Livewire
+* **Architecture:** REST APIs, MVC, Domain-Driven Design
+* **Workflow:** Git, CI/CD
 
 ---
 
-<h3>⚡ What I Do</h3>
+## ⚡ What I Do
 
-<ul>
-<li>Build and launch full-stack applications from scratch</li>
-<li>Train and mentor upcoming ICT professionals</li>
-<li>Develop solutions focused on <b>social impact</b></li>
-<li>Bootstrap projects from <i>idea → deployment</i></li>
-</ul>
+* Build and launch full-stack applications from scratch
+* Train and mentor upcoming ICT professionals
+* Develop solutions focused on social impact
+* Bootstrap projects from idea → deployment
 
 ---
 
-<h3>💬 Let's Connect</h3>
+## 💬 Let's Connect
 
-<p>
-💡 Ask me about: Laravel, TALL stack, or solo dev workflows<br/><br/>
+* 💡 Ask me about: Laravel, TALL stack, or solo dev workflows
+* 📫 Email: [tituskiptanuitum@gmail.com](mailto:tituskiptanuitum@gmail.com)
+* 📞 WhatsApp/Call: +254 716 255 524
+* 🔗 LinkedIn: https://linkedin.com/in/titustum
 
-📫 <b>Email:</b> <a href="mailto:tituskiptanuitum@gmail.com">[tituskiptanuitum@gmail.com](mailto:tituskiptanuitum@gmail.com)</a><br/>
-📞 <b>Call/WhatsApp:</b> +254 716 255 524<br/>
-🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/titustum">titustum</a>
-
-</p>
-
----
-
-<p align="center">
-<i>"Code is a tool. Impact is the goal."</i>
-</p>
+> “Code is a tool. Impact is the goal.”
