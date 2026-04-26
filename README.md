@@ -1,37 +1,18 @@
-# 👋 Hello, I'm Titus Tum
+# Titus Tum
 
-🚀 ICT Technical Trainer | 💻 Software Developer | 🛠️ TALL Stack Specialist
+ICT Technical Trainer · TALL Stack Developer · Solo Builder
 
-I build scalable, production-ready web applications using the **TALL stack** (Tailwind CSS, Alpine.js, Laravel, Livewire). As a solo developer, I bootstrap and deliver industry-level solutions that solve real-world problems.
-
-🌍 My mission is to **use technology to uplift disadvantaged communities** by turning complex challenges into practical, accessible digital solutions.
-
----
-
-## 🛠️ Tech Stack
-
-* **Backend:** Laravel (PHP)
-* **Frontend:** Tailwind CSS, Alpine.js
-* **Fullstack:** Livewire
-* **Architecture:** REST APIs, MVC, Domain-Driven Design
-* **Workflow:** Git, CI/CD
+I build and ship full-stack web applications using Laravel, Livewire, Alpine.js,
+and Tailwind CSS — from idea to deployment, solo. My work is driven by one goal:
+use technology to create opportunity for disadvantaged communities.
 
 ---
 
-## ⚡ What I Do
-
-* Build and launch full-stack applications from scratch
-* Train and mentor upcoming ICT professionals
-* Develop solutions focused on social impact
-* Bootstrap projects from idea → deployment
+**Stack** — Laravel · Livewire · Alpine.js · Tailwind CSS · REST APIs · Git  
+**Currently** — Building social-impact tools, mentoring upcoming ICT professionals
 
 ---
 
-## 💬 Let's Connect
+📫 tituskiptanuitum@gmail.com · [LinkedIn](https://linkedin.com/in/titustum) · +254 716 255 524
 
-* 💡 Ask me about: Laravel, TALL stack, or solo dev workflows
-* 📫 Email: [tituskiptanuitum@gmail.com](mailto:tituskiptanuitum@gmail.com)
-* 📞 WhatsApp/Call: +254 716 255 524
-* 🔗 LinkedIn: https://linkedin.com/in/titustum
-
-> “Code is a tool. Impact is the goal.”
+> *Code is a tool. Impact is the goal.*
