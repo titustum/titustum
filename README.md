@@ -11,7 +11,7 @@ I build scalable, production-ready web applications using the **TALL stack** (Ta
 
 * 💡 Ask me about: Laravel, TALL stack, or solo dev workflows
 * 📫 Email: [tituskiptanuitum@gmail.com](mailto:tituskiptanuitum@gmail.com)
-* 📞 WhatsApp/Call: +254 716 255 524
+* 📞 WhatsApp/Call: **+254 716 255 524**
 * 🔗 LinkedIn: https://linkedin.com/in/titustum
 
 > “Code is a tool. Impact is the goal.”
