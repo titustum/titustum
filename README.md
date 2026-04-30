@@ -6,7 +6,6 @@ I build scalable, production-ready web applications using the **TALL stack** (Ta
 
 🌍 My mission is to **use technology to uplift disadvantaged communities** by turning complex challenges into practical, accessible digital solutions.
 
----
 
 ## 💬 Let's Connect
 
